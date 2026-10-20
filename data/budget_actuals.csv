@@ -1,0 +1,289 @@
+month,line,kind,dept,budget,actual
+2025-01,Subscription Revenue,revenue,Revenue,2050000.0,2057496.04
+2025-02,Subscription Revenue,revenue,Revenue,2093050.0,2066929.14
+2025-03,Subscription Revenue,revenue,Revenue,2137004.05,2156248.66
+2025-04,Subscription Revenue,revenue,Revenue,2181881.14,2206507.54
+2025-05,Subscription Revenue,revenue,Revenue,2227700.64,2175544.77
+2025-06,Subscription Revenue,revenue,Revenue,2274482.35,2238940.94
+2025-07,Subscription Revenue,revenue,Revenue,2322246.48,2325809.0
+2025-08,Subscription Revenue,revenue,Revenue,2371013.66,2362015.87
+2025-09,Subscription Revenue,revenue,Revenue,2420804.94,2420316.88
+2025-10,Subscription Revenue,revenue,Revenue,2471641.85,2446340.82
+2025-11,Subscription Revenue,revenue,Revenue,2523546.33,2550176.75
+2025-12,Subscription Revenue,revenue,Revenue,2576540.8,2600588.95
+2026-01,Subscription Revenue,revenue,Revenue,2630648.16,2474768.64
+2026-02,Subscription Revenue,revenue,Revenue,2685891.77,2558890.13
+2026-03,Subscription Revenue,revenue,Revenue,2742295.5,2592219.28
+2026-04,Subscription Revenue,revenue,Revenue,2799883.7,2771012.67
+2026-05,Subscription Revenue,revenue,Revenue,2858681.26,2871330.95
+2026-06,Subscription Revenue,revenue,Revenue,2918713.56,2885129.12
+2026-07,Subscription Revenue,revenue,Revenue,2980006.55,3011420.0
+2026-08,Subscription Revenue,revenue,Revenue,3042586.69,3040763.84
+2026-09,Subscription Revenue,revenue,Revenue,3106481.01,3099589.75
+2026-10,Subscription Revenue,revenue,Revenue,3171717.11,
+2026-11,Subscription Revenue,revenue,Revenue,3238323.17,
+2026-12,Subscription Revenue,revenue,Revenue,3306327.95,
+2025-01,Services Revenue,revenue,Revenue,185000.0,181220.84
+2025-02,Services Revenue,revenue,Revenue,186850.0,193702.96
+2025-03,Services Revenue,revenue,Revenue,188718.5,187843.62
+2025-04,Services Revenue,revenue,Revenue,190605.69,188156.43
+2025-05,Services Revenue,revenue,Revenue,192511.74,190478.05
+2025-06,Services Revenue,revenue,Revenue,194436.86,197541.88
+2025-07,Services Revenue,revenue,Revenue,196381.23,198534.22
+2025-08,Services Revenue,revenue,Revenue,198345.04,200800.94
+2025-09,Services Revenue,revenue,Revenue,200328.49,202917.66
+2025-10,Services Revenue,revenue,Revenue,202331.78,215331.48
+2025-11,Services Revenue,revenue,Revenue,204355.09,201863.5
+2025-12,Services Revenue,revenue,Revenue,206398.64,203226.86
+2026-01,Services Revenue,revenue,Revenue,208462.63,203373.39
+2026-02,Services Revenue,revenue,Revenue,210547.26,214438.04
+2026-03,Services Revenue,revenue,Revenue,212652.73,219855.1
+2026-04,Services Revenue,revenue,Revenue,214779.26,214045.05
+2026-05,Services Revenue,revenue,Revenue,216927.05,211459.47
+2026-06,Services Revenue,revenue,Revenue,219096.32,213677.1
+2026-07,Services Revenue,revenue,Revenue,221287.28,225606.32
+2026-08,Services Revenue,revenue,Revenue,223500.16,228483.68
+2026-09,Services Revenue,revenue,Revenue,225735.16,229413.43
+2026-10,Services Revenue,revenue,Revenue,227992.51,
+2026-11,Services Revenue,revenue,Revenue,230272.43,
+2026-12,Services Revenue,revenue,Revenue,232575.16,
+2025-01,Cloud Hosting,cost,COGS,385000.0,379875.58
+2025-02,Cloud Hosting,cost,COGS,393855.0,395683.76
+2025-03,Cloud Hosting,cost,COGS,402913.66,403853.95
+2025-04,Cloud Hosting,cost,COGS,412180.68,413983.46
+2025-05,Cloud Hosting,cost,COGS,421660.83,429009.78
+2025-06,Cloud Hosting,cost,COGS,431359.03,433288.03
+2025-07,Cloud Hosting,cost,COGS,441280.29,447272.12
+2025-08,Cloud Hosting,cost,COGS,451429.74,452039.88
+2025-09,Cloud Hosting,cost,COGS,461812.62,464483.0
+2025-10,Cloud Hosting,cost,COGS,472434.31,478399.16
+2025-11,Cloud Hosting,cost,COGS,483300.3,469215.43
+2025-12,Cloud Hosting,cost,COGS,494416.21,491255.2
+2026-01,Cloud Hosting,cost,COGS,505787.78,501029.61
+2026-02,Cloud Hosting,cost,COGS,517420.9,510809.53
+2026-03,Cloud Hosting,cost,COGS,529321.58,710651.89
+2026-04,Cloud Hosting,cost,COGS,541495.98,557686.07
+2026-05,Cloud Hosting,cost,COGS,553950.39,544357.84
+2026-06,Cloud Hosting,cost,COGS,566691.24,577665.54
+2026-07,Cloud Hosting,cost,COGS,579725.14,560213.1
+2026-08,Cloud Hosting,cost,COGS,593058.82,589086.69
+2026-09,Cloud Hosting,cost,COGS,606699.17,608674.02
+2026-10,Cloud Hosting,cost,COGS,620653.26,
+2026-11,Cloud Hosting,cost,COGS,634928.28,
+2026-12,Cloud Hosting,cost,COGS,649531.63,
+2025-01,Support Labor,cost,COGS,268000.0,270356.61
+2025-02,Support Labor,cost,COGS,271216.0,274109.44
+2025-03,Support Labor,cost,COGS,274470.59,277736.85
+2025-04,Support Labor,cost,COGS,277764.24,276311.29
+2025-05,Support Labor,cost,COGS,281097.41,279147.92
+2025-06,Support Labor,cost,COGS,284470.58,288131.61
+2025-07,Support Labor,cost,COGS,287884.23,287058.12
+2025-08,Support Labor,cost,COGS,291338.84,285763.98
+2025-09,Support Labor,cost,COGS,294834.9,289822.91
+2025-10,Support Labor,cost,COGS,298372.92,294257.83
+2025-11,Support Labor,cost,COGS,301953.4,304205.19
+2025-12,Support Labor,cost,COGS,305576.84,306229.67
+2026-01,Support Labor,cost,COGS,309243.76,312446.68
+2026-02,Support Labor,cost,COGS,312954.68,310949.02
+2026-03,Support Labor,cost,COGS,316710.14,317463.31
+2026-04,Support Labor,cost,COGS,320510.66,323518.29
+2026-05,Support Labor,cost,COGS,324356.79,322851.71
+2026-06,Support Labor,cost,COGS,328249.07,330498.11
+2026-07,Support Labor,cost,COGS,332188.06,328889.8
+2026-08,Support Labor,cost,COGS,336174.32,334343.58
+2026-09,Support Labor,cost,COGS,340208.41,338260.35
+2026-10,Support Labor,cost,COGS,344290.91,
+2026-11,Support Labor,cost,COGS,348422.4,
+2026-12,Support Labor,cost,COGS,352603.47,
+2025-01,Engineering Labor,cost,R&D,742000.0,728690.3
+2025-02,Engineering Labor,cost,R&D,752388.0,757883.88
+2025-03,Engineering Labor,cost,R&D,762921.43,757549.68
+2025-04,Engineering Labor,cost,R&D,773602.33,773747.31
+2025-05,Engineering Labor,cost,R&D,784432.76,790089.47
+2025-06,Engineering Labor,cost,R&D,795414.82,800742.49
+2025-07,Engineering Labor,cost,R&D,806550.63,814600.63
+2025-08,Engineering Labor,cost,R&D,817842.34,816634.16
+2025-09,Engineering Labor,cost,R&D,829292.13,824026.56
+2025-10,Engineering Labor,cost,R&D,840902.22,839896.69
+2025-11,Engineering Labor,cost,R&D,852674.85,831093.64
+2025-12,Engineering Labor,cost,R&D,864612.3,845844.43
+2026-01,Engineering Labor,cost,R&D,876716.87,859322.38
+2026-02,Engineering Labor,cost,R&D,888990.91,875692.76
+2026-03,Engineering Labor,cost,R&D,901436.78,906842.35
+2026-04,Engineering Labor,cost,R&D,914056.9,793444.97
+2026-05,Engineering Labor,cost,R&D,926853.69,811004.63
+2026-06,Engineering Labor,cost,R&D,939829.65,843167.99
+2026-07,Engineering Labor,cost,R&D,952987.26,947894.54
+2026-08,Engineering Labor,cost,R&D,966329.08,977019.32
+2026-09,Engineering Labor,cost,R&D,979857.69,966135.5
+2026-10,Engineering Labor,cost,R&D,993575.7,
+2026-11,Engineering Labor,cost,R&D,1007485.76,
+2026-12,Engineering Labor,cost,R&D,1021590.56,
+2025-01,Software & Tools,cost,R&D,96000.0,95506.95
+2025-02,Software & Tools,cost,R&D,97152.0,94844.59
+2025-03,Software & Tools,cost,R&D,98317.82,97484.5
+2025-04,Software & Tools,cost,R&D,99497.64,101587.85
+2025-05,Software & Tools,cost,R&D,100691.61,96343.44
+2025-06,Software & Tools,cost,R&D,101899.91,103006.6
+2025-07,Software & Tools,cost,R&D,103122.71,103735.61
+2025-08,Software & Tools,cost,R&D,104360.18,102810.04
+2025-09,Software & Tools,cost,R&D,105612.5,101794.46
+2025-10,Software & Tools,cost,R&D,106879.85,107072.58
+2025-11,Software & Tools,cost,R&D,108162.41,106730.63
+2025-12,Software & Tools,cost,R&D,109460.36,110097.08
+2026-01,Software & Tools,cost,R&D,110773.88,110834.4
+2026-02,Software & Tools,cost,R&D,112103.17,116592.28
+2026-03,Software & Tools,cost,R&D,113448.41,112769.55
+2026-04,Software & Tools,cost,R&D,114809.79,111872.1
+2026-05,Software & Tools,cost,R&D,116187.51,116708.25
+2026-06,Software & Tools,cost,R&D,117581.76,118228.45
+2026-07,Software & Tools,cost,R&D,118992.74,123036.07
+2026-08,Software & Tools,cost,R&D,120420.65,122934.77
+2026-09,Software & Tools,cost,R&D,121865.7,122952.96
+2026-10,Software & Tools,cost,R&D,123328.09,
+2026-11,Software & Tools,cost,R&D,124808.02,
+2026-12,Software & Tools,cost,R&D,126305.72,
+2025-01,Sales & Marketing Labor,cost,S&M,512000.0,523238.17
+2025-02,Sales & Marketing Labor,cost,S&M,520192.0,510916.22
+2025-03,Sales & Marketing Labor,cost,S&M,528515.07,523443.3
+2025-04,Sales & Marketing Labor,cost,S&M,536971.31,529508.14
+2025-05,Sales & Marketing Labor,cost,S&M,545562.85,542372.87
+2025-06,Sales & Marketing Labor,cost,S&M,554291.86,542845.57
+2025-07,Sales & Marketing Labor,cost,S&M,563160.53,568525.91
+2025-08,Sales & Marketing Labor,cost,S&M,572171.1,570263.86
+2025-09,Sales & Marketing Labor,cost,S&M,581325.84,568500.57
+2025-10,Sales & Marketing Labor,cost,S&M,590627.05,581629.62
+2025-11,Sales & Marketing Labor,cost,S&M,600077.08,602899.07
+2025-12,Sales & Marketing Labor,cost,S&M,609678.32,617343.13
+2026-01,Sales & Marketing Labor,cost,S&M,619433.17,637985.79
+2026-02,Sales & Marketing Labor,cost,S&M,629344.1,656851.43
+2026-03,Sales & Marketing Labor,cost,S&M,639413.6,643388.29
+2026-04,Sales & Marketing Labor,cost,S&M,649644.22,640001.51
+2026-05,Sales & Marketing Labor,cost,S&M,660038.53,638930.04
+2026-06,Sales & Marketing Labor,cost,S&M,670599.15,673292.05
+2026-07,Sales & Marketing Labor,cost,S&M,681328.73,673020.53
+2026-08,Sales & Marketing Labor,cost,S&M,692229.99,687917.15
+2026-09,Sales & Marketing Labor,cost,S&M,703305.67,696848.3
+2026-10,Sales & Marketing Labor,cost,S&M,714558.56,
+2026-11,Sales & Marketing Labor,cost,S&M,725991.5,
+2026-12,Sales & Marketing Labor,cost,S&M,737607.36,
+2025-01,Marketing Programs,cost,S&M,148000.0,147374.89
+2025-02,Marketing Programs,cost,S&M,149184.0,153954.82
+2025-03,Marketing Programs,cost,S&M,150377.47,151085.97
+2025-04,Marketing Programs,cost,S&M,151580.49,150859.11
+2025-05,Marketing Programs,cost,S&M,152793.14,148045.91
+2025-06,Marketing Programs,cost,S&M,154015.48,146277.67
+2025-07,Marketing Programs,cost,S&M,155247.6,152982.66
+2025-08,Marketing Programs,cost,S&M,156489.59,156237.09
+2025-09,Marketing Programs,cost,S&M,157741.5,212617.96
+2025-10,Marketing Programs,cost,S&M,159003.43,204319.82
+2025-11,Marketing Programs,cost,S&M,160275.46,165000.73
+2025-12,Marketing Programs,cost,S&M,161557.67,159137.71
+2026-01,Marketing Programs,cost,S&M,162850.13,157061.08
+2026-02,Marketing Programs,cost,S&M,164152.93,159400.13
+2026-03,Marketing Programs,cost,S&M,165466.15,161866.14
+2026-04,Marketing Programs,cost,S&M,166789.88,177440.1
+2026-05,Marketing Programs,cost,S&M,168124.2,163981.35
+2026-06,Marketing Programs,cost,S&M,169469.19,173732.14
+2026-07,Marketing Programs,cost,S&M,170824.95,166197.67
+2026-08,Marketing Programs,cost,S&M,172191.55,177003.82
+2026-09,Marketing Programs,cost,S&M,173569.08,175573.55
+2026-10,Marketing Programs,cost,S&M,174957.63,
+2026-11,Marketing Programs,cost,S&M,176357.29,
+2026-12,Marketing Programs,cost,S&M,177768.15,
+2025-01,Customer Success Labor,cost,CS,196000.0,195539.48
+2025-02,Customer Success Labor,cost,CS,198548.0,198426.6
+2025-03,Customer Success Labor,cost,CS,201129.12,199153.67
+2025-04,Customer Success Labor,cost,CS,203743.8,205107.07
+2025-05,Customer Success Labor,cost,CS,206392.47,204983.89
+2025-06,Customer Success Labor,cost,CS,209075.57,205231.91
+2025-07,Customer Success Labor,cost,CS,211793.56,207733.67
+2025-08,Customer Success Labor,cost,CS,214546.87,215102.3
+2025-09,Customer Success Labor,cost,CS,217335.98,222483.88
+2025-10,Customer Success Labor,cost,CS,220161.35,220689.71
+2025-11,Customer Success Labor,cost,CS,223023.45,222626.56
+2025-12,Customer Success Labor,cost,CS,225922.75,226891.37
+2026-01,Customer Success Labor,cost,CS,228859.75,233343.12
+2026-02,Customer Success Labor,cost,CS,231834.92,232597.83
+2026-03,Customer Success Labor,cost,CS,234848.78,233401.19
+2026-04,Customer Success Labor,cost,CS,237901.81,241849.63
+2026-05,Customer Success Labor,cost,CS,240994.54,242544.46
+2026-06,Customer Success Labor,cost,CS,244127.47,249751.27
+2026-07,Customer Success Labor,cost,CS,247301.12,247980.83
+2026-08,Customer Success Labor,cost,CS,250516.04,245914.8
+2026-09,Customer Success Labor,cost,CS,253772.75,248564.72
+2026-10,Customer Success Labor,cost,CS,257071.79,
+2026-11,Customer Success Labor,cost,CS,260413.72,
+2026-12,Customer Success Labor,cost,CS,263799.1,
+2025-01,G&A Labor,cost,G&A,238000.0,243893.81
+2025-02,G&A Labor,cost,G&A,240380.0,246595.02
+2025-03,G&A Labor,cost,G&A,242783.8,242130.03
+2025-04,G&A Labor,cost,G&A,245211.64,243802.21
+2025-05,G&A Labor,cost,G&A,247663.75,253092.96
+2025-06,G&A Labor,cost,G&A,250140.39,245986.64
+2025-07,G&A Labor,cost,G&A,252641.8,249251.11
+2025-08,G&A Labor,cost,G&A,255168.21,257630.56
+2025-09,G&A Labor,cost,G&A,257719.9,256194.43
+2025-10,G&A Labor,cost,G&A,260297.09,260277.1
+2025-11,G&A Labor,cost,G&A,262900.07,262255.53
+2025-12,G&A Labor,cost,G&A,265529.07,266873.6
+2026-01,G&A Labor,cost,G&A,268184.36,273846.33
+2026-02,G&A Labor,cost,G&A,270866.2,271234.25
+2026-03,G&A Labor,cost,G&A,273574.86,276217.34
+2026-04,G&A Labor,cost,G&A,276310.61,267813.35
+2026-05,G&A Labor,cost,G&A,279073.72,278869.78
+2026-06,G&A Labor,cost,G&A,281864.45,278299.31
+2026-07,G&A Labor,cost,G&A,284683.1,279478.47
+2026-08,G&A Labor,cost,G&A,287529.93,309279.33
+2026-09,G&A Labor,cost,G&A,290405.23,288949.76
+2026-10,G&A Labor,cost,G&A,293309.28,
+2026-11,G&A Labor,cost,G&A,296242.37,
+2026-12,G&A Labor,cost,G&A,299204.8,
+2025-01,Legal & Professional,cost,G&A,54000.0,55978.35
+2025-02,Legal & Professional,cost,G&A,54216.0,51339.53
+2025-03,Legal & Professional,cost,G&A,54432.86,54499.56
+2025-04,Legal & Professional,cost,G&A,54650.6,53592.19
+2025-05,Legal & Professional,cost,G&A,54869.2,54150.03
+2025-06,Legal & Professional,cost,G&A,55088.67,57298.3
+2025-07,Legal & Professional,cost,G&A,55309.03,56499.54
+2025-08,Legal & Professional,cost,G&A,55530.27,58500.91
+2025-09,Legal & Professional,cost,G&A,55752.39,55407.82
+2025-10,Legal & Professional,cost,G&A,55975.4,54417.17
+2025-11,Legal & Professional,cost,G&A,56199.3,55696.07
+2025-12,Legal & Professional,cost,G&A,56424.09,56971.4
+2026-01,Legal & Professional,cost,G&A,56649.79,57049.9
+2026-02,Legal & Professional,cost,G&A,56876.39,54409.35
+2026-03,Legal & Professional,cost,G&A,57103.9,57310.59
+2026-04,Legal & Professional,cost,G&A,57332.31,57855.71
+2026-05,Legal & Professional,cost,G&A,57561.64,223358.04
+2026-06,Legal & Professional,cost,G&A,57791.89,62130.54
+2026-07,Legal & Professional,cost,G&A,58023.05,56042.74
+2026-08,Legal & Professional,cost,G&A,58255.15,57585.48
+2026-09,Legal & Professional,cost,G&A,58488.17,55064.41
+2026-10,Legal & Professional,cost,G&A,58722.12,
+2026-11,Legal & Professional,cost,G&A,58957.01,
+2026-12,Legal & Professional,cost,G&A,59192.84,
+2025-01,Facilities & Other,cost,G&A,88000.0,86960.36
+2025-02,Facilities & Other,cost,G&A,88440.0,88998.24
+2025-03,Facilities & Other,cost,G&A,88882.2,91025.78
+2025-04,Facilities & Other,cost,G&A,89326.61,88024.08
+2025-05,Facilities & Other,cost,G&A,89773.24,88598.75
+2025-06,Facilities & Other,cost,G&A,90222.11,86347.45
+2025-07,Facilities & Other,cost,G&A,90673.22,90378.23
+2025-08,Facilities & Other,cost,G&A,91126.59,89190.3
+2025-09,Facilities & Other,cost,G&A,91582.22,90612.48
+2025-10,Facilities & Other,cost,G&A,92040.13,90426.0
+2025-11,Facilities & Other,cost,G&A,92500.33,92325.95
+2025-12,Facilities & Other,cost,G&A,92962.83,89694.77
+2026-01,Facilities & Other,cost,G&A,93427.65,90686.4
+2026-02,Facilities & Other,cost,G&A,93894.79,97893.29
+2026-03,Facilities & Other,cost,G&A,94364.26,91934.53
+2026-04,Facilities & Other,cost,G&A,94836.08,92755.78
+2026-05,Facilities & Other,cost,G&A,95310.26,98811.8
+2026-06,Facilities & Other,cost,G&A,95786.81,101352.16
+2026-07,Facilities & Other,cost,G&A,96265.75,94010.11
+2026-08,Facilities & Other,cost,G&A,96747.08,96034.54
+2026-09,Facilities & Other,cost,G&A,97230.81,97895.01
+2026-10,Facilities & Other,cost,G&A,97716.96,
+2026-11,Facilities & Other,cost,G&A,98205.55,
+2026-12,Facilities & Other,cost,G&A,98696.58,
