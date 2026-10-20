@@ -1,0 +1,44 @@
+[
+  {
+    "line": "Cloud Hosting",
+    "start": "2026-03",
+    "end": "2026-03",
+    "effect": "x1.35",
+    "description": "Cloud usage overrun: unplanned data-pipeline workload ran for a full month before cost alerts fired."
+  },
+  {
+    "line": "Engineering Labor",
+    "start": "2026-04",
+    "end": "2026-06",
+    "effect": "x0.88",
+    "description": "Hiring freeze: engineering requisitions paused for one quarter, headcount ran below plan."
+  },
+  {
+    "line": "Marketing Programs",
+    "start": "2025-09",
+    "end": "2025-10",
+    "effect": "x1.28",
+    "description": "Campaign overrun: a paid demand-gen campaign was extended two months past its approved budget."
+  },
+  {
+    "line": "Subscription Revenue",
+    "start": "2026-01",
+    "end": "2026-03",
+    "effect": "x0.94",
+    "description": "Bookings miss: enterprise deals slipped a quarter, subscription revenue ran below plan."
+  },
+  {
+    "line": "Legal & Professional",
+    "start": "2026-05",
+    "end": "2026-05",
+    "effect": "+160000 USD",
+    "description": "One-off legal cost: outside counsel for a contract dispute, not in plan."
+  },
+  {
+    "line": "G&A Labor",
+    "start": "2026-08",
+    "end": "2026-08",
+    "effect": "x1.09",
+    "description": "Exec hire above plan: a VP hire closed at a higher package than budgeted."
+  }
+]
