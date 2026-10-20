@@ -1,0 +1,816 @@
+{
+  "asof_month": "2026-09",
+  "thresholds": {
+    "materiality_dollars": 25000,
+    "materiality_pct": 0.05,
+    "z_threshold": 2.0,
+    "z_window_months": 6,
+    "z_floor_pct": 0.03,
+    "forecast_method": "trailing-6-month median var% run-rate, clipped at +/-15%"
+  },
+  "scorecard": {
+    "planted_line_months": 11,
+    "caught": 10,
+    "missed": 1,
+    "false_positives": 10,
+    "flagged_total": 20,
+    "recall": 0.909,
+    "materiality_caught": 9,
+    "materiality_fp": 0,
+    "z_caught": 6,
+    "z_fp": 10,
+    "precision": 0.5,
+    "missed_detail": [
+      {
+        "line": "Subscription Revenue",
+        "month": "2026-02",
+        "var": -127002.0,
+        "var_pct": -4.7
+      }
+    ],
+    "false_positive_detail": [
+      {
+        "line": "Services Revenue",
+        "month": "2025-10",
+        "var": 13000.0,
+        "var_pct": 6.4
+      },
+      {
+        "line": "Software & Tools",
+        "month": "2025-05",
+        "var": -4348.0,
+        "var_pct": -4.3
+      },
+      {
+        "line": "Software & Tools",
+        "month": "2026-02",
+        "var": 4489.0,
+        "var_pct": 4.0
+      },
+      {
+        "line": "Sales & Marketing Labor",
+        "month": "2026-02",
+        "var": 27507.0,
+        "var_pct": 4.4
+      },
+      {
+        "line": "Sales & Marketing Labor",
+        "month": "2026-05",
+        "var": -21108.0,
+        "var_pct": -3.2
+      },
+      {
+        "line": "Marketing Programs",
+        "month": "2025-05",
+        "var": -4747.0,
+        "var_pct": -3.1
+      },
+      {
+        "line": "Marketing Programs",
+        "month": "2025-06",
+        "var": -7738.0,
+        "var_pct": -5.0
+      },
+      {
+        "line": "G&A Labor",
+        "month": "2026-04",
+        "var": -8497.0,
+        "var_pct": -3.1
+      },
+      {
+        "line": "Facilities & Other",
+        "month": "2025-06",
+        "var": -3875.0,
+        "var_pct": -4.3
+      },
+      {
+        "line": "Facilities & Other",
+        "month": "2026-02",
+        "var": 3998.0,
+        "var_pct": 4.3
+      }
+    ]
+  },
+  "backtest": {
+    "mape_forecast": 0.0319,
+    "mape_budget": 0.0316,
+    "by_line": [
+      {
+        "line": "Cloud Hosting",
+        "mape_forecast": 0.0437,
+        "mape_budget": 0.0431
+      },
+      {
+        "line": "Customer Success Labor",
+        "mape_forecast": 0.0121,
+        "mape_budget": 0.0129
+      },
+      {
+        "line": "Engineering Labor",
+        "mape_forecast": 0.0511,
+        "mape_budget": 0.0535
+      },
+      {
+        "line": "Facilities & Other",
+        "mape_forecast": 0.0272,
+        "mape_budget": 0.0276
+      },
+      {
+        "line": "G&A Labor",
+        "mape_forecast": 0.0189,
+        "mape_budget": 0.019
+      },
+      {
+        "line": "Legal & Professional",
+        "mape_forecast": 0.1096,
+        "mape_budget": 0.1096
+      },
+      {
+        "line": "Marketing Programs",
+        "mape_forecast": 0.0319,
+        "mape_budget": 0.0295
+      },
+      {
+        "line": "Sales & Marketing Labor",
+        "mape_forecast": 0.0175,
+        "mape_budget": 0.0175
+      },
+      {
+        "line": "Services Revenue",
+        "mape_forecast": 0.0198,
+        "mape_budget": 0.0208
+      },
+      {
+        "line": "Software & Tools",
+        "mape_forecast": 0.019,
+        "mape_budget": 0.0159
+      },
+      {
+        "line": "Subscription Revenue",
+        "mape_forecast": 0.0237,
+        "mape_budget": 0.0234
+      },
+      {
+        "line": "Support Labor",
+        "mape_forecast": 0.0083,
+        "mape_budget": 0.0068
+      }
+    ]
+  },
+  "headline_sep2026": {
+    "rev_budget": 3332216.17,
+    "rev_actual": 3329003.18,
+    "rev_var": -3212.99,
+    "cost_budget": 3625402.68,
+    "cost_actual": 3598918.58,
+    "cost_var": -26484.1,
+    "op_budget": -293186.51,
+    "op_actual": -269915.4
+  },
+  "headline_fytd2026": {
+    "rev_budget": 27718176.05,
+    "rev_actual": 27265475.96,
+    "rev_var": -452700.09,
+    "cost_budget": 30825359.97,
+    "cost_actual": 30818455.63,
+    "cost_var": -6904.34,
+    "op_budget": -3107183.92,
+    "op_actual": -3552979.67
+  },
+  "sep2026_lines": [
+    {
+      "line": "Engineering Labor",
+      "kind": "cost",
+      "dept": "R&D",
+      "budget": 979857.69,
+      "actual": 966135.5,
+      "var": -13722.189999999944,
+      "var_pct": -1.4,
+      "fu": "F",
+      "flag_material": false,
+      "flag_z": false,
+      "flagged": false,
+      "z": 0.64
+    },
+    {
+      "line": "Subscription Revenue",
+      "kind": "revenue",
+      "dept": "Revenue",
+      "budget": 3106481.01,
+      "actual": 3099589.75,
+      "var": -6891.2599999997765,
+      "var_pct": -0.22,
+      "fu": "U",
+      "flag_material": false,
+      "flag_z": false,
+      "flagged": false,
+      "z": 0.35
+    },
+    {
+      "line": "Sales & Marketing Labor",
+      "kind": "cost",
+      "dept": "S&M",
+      "budget": 703305.67,
+      "actual": 696848.3,
+      "var": -6457.369999999995,
+      "var_pct": -0.92,
+      "fu": "F",
+      "flag_material": false,
+      "flag_z": false,
+      "flagged": false,
+      "z": -0.0
+    },
+    {
+      "line": "Customer Success Labor",
+      "kind": "cost",
+      "dept": "CS",
+      "budget": 253772.75,
+      "actual": 248564.72,
+      "var": -5208.029999999999,
+      "var_pct": -2.05,
+      "fu": "F",
+      "flag_material": false,
+      "flag_z": false,
+      "flagged": false,
+      "z": -1.63
+    },
+    {
+      "line": "Legal & Professional",
+      "kind": "cost",
+      "dept": "G&A",
+      "budget": 58488.17,
+      "actual": 55064.41,
+      "var": -3423.7599999999948,
+      "var_pct": -5.85,
+      "fu": "F",
+      "flag_material": false,
+      "flag_z": false,
+      "flagged": false,
+      "z": -0.47
+    },
+    {
+      "line": "Support Labor",
+      "kind": "cost",
+      "dept": "COGS",
+      "budget": 340208.41,
+      "actual": 338260.35,
+      "var": -1948.0599999999977,
+      "var_pct": -0.57,
+      "fu": "F",
+      "flag_material": false,
+      "flag_z": false,
+      "flagged": false,
+      "z": -0.72
+    },
+    {
+      "line": "G&A Labor",
+      "kind": "cost",
+      "dept": "G&A",
+      "budget": 290405.23,
+      "actual": 288949.76,
+      "var": -1455.469999999972,
+      "var_pct": -0.5,
+      "fu": "F",
+      "flag_material": false,
+      "flag_z": false,
+      "flagged": false,
+      "z": -0.23
+    },
+    {
+      "line": "Facilities & Other",
+      "kind": "cost",
+      "dept": "G&A",
+      "budget": 97230.81,
+      "actual": 97895.01,
+      "var": 664.1999999999971,
+      "var_pct": 0.68,
+      "fu": "U",
+      "flag_material": false,
+      "flag_z": false,
+      "flagged": false,
+      "z": 0.11
+    },
+    {
+      "line": "Software & Tools",
+      "kind": "cost",
+      "dept": "R&D",
+      "budget": 121865.7,
+      "actual": 122952.96,
+      "var": 1087.2600000000093,
+      "var_pct": 0.89,
+      "fu": "U",
+      "flag_material": false,
+      "flag_z": false,
+      "flagged": false,
+      "z": 0.16
+    },
+    {
+      "line": "Cloud Hosting",
+      "kind": "cost",
+      "dept": "COGS",
+      "budget": 606699.17,
+      "actual": 608674.02,
+      "var": 1974.8499999999767,
+      "var_pct": 0.33,
+      "fu": "U",
+      "flag_material": false,
+      "flag_z": false,
+      "flagged": false,
+      "z": -0.37
+    },
+    {
+      "line": "Marketing Programs",
+      "kind": "cost",
+      "dept": "S&M",
+      "budget": 173569.08,
+      "actual": 175573.55,
+      "var": 2004.4700000000012,
+      "var_pct": 1.15,
+      "fu": "U",
+      "flag_material": false,
+      "flag_z": false,
+      "flagged": false,
+      "z": 0.12
+    },
+    {
+      "line": "Services Revenue",
+      "kind": "revenue",
+      "dept": "Revenue",
+      "budget": 225735.16,
+      "actual": 229413.43,
+      "var": 3678.2699999999895,
+      "var_pct": 1.63,
+      "fu": "F",
+      "flag_material": false,
+      "flag_z": false,
+      "flagged": false,
+      "z": 0.5
+    }
+  ],
+  "fytd_lines": [
+    {
+      "line": "Cloud Hosting",
+      "kind": "cost",
+      "dept": "COGS",
+      "budget": 4994151.0,
+      "actual": 5160174.29,
+      "var": 166023.29000000004,
+      "var_pct": 3.32
+    },
+    {
+      "line": "Customer Success Labor",
+      "kind": "cost",
+      "dept": "CS",
+      "budget": 2170157.18,
+      "actual": 2175947.85,
+      "var": 5790.6699999999255,
+      "var_pct": 0.27
+    },
+    {
+      "line": "Engineering Labor",
+      "kind": "cost",
+      "dept": "R&D",
+      "budget": 8347058.83,
+      "actual": 7980524.4399999995,
+      "var": -366534.3900000006,
+      "var_pct": -4.39
+    },
+    {
+      "line": "Facilities & Other",
+      "kind": "cost",
+      "dept": "G&A",
+      "budget": 857863.49,
+      "actual": 861373.62,
+      "var": 3510.1300000000047,
+      "var_pct": 0.41
+    },
+    {
+      "line": "G&A Labor",
+      "kind": "cost",
+      "dept": "G&A",
+      "budget": 2512492.46,
+      "actual": 2523987.92,
+      "var": 11495.459999999963,
+      "var_pct": 0.46
+    },
+    {
+      "line": "Legal & Professional",
+      "kind": "cost",
+      "dept": "G&A",
+      "budget": 518082.29,
+      "actual": 680806.76,
+      "var": 162724.47000000003,
+      "var_pct": 31.41
+    },
+    {
+      "line": "Marketing Programs",
+      "kind": "cost",
+      "dept": "S&M",
+      "budget": 1513438.06,
+      "actual": 1512255.98,
+      "var": -1182.0800000000745,
+      "var_pct": -0.08
+    },
+    {
+      "line": "Sales & Marketing Labor",
+      "kind": "cost",
+      "dept": "S&M",
+      "budget": 5945337.16,
+      "actual": 5948235.09,
+      "var": 2897.929999999702,
+      "var_pct": 0.05
+    },
+    {
+      "line": "Services Revenue",
+      "kind": "revenue",
+      "dept": "Revenue",
+      "budget": 1952987.85,
+      "actual": 1960351.58,
+      "var": 7363.729999999981,
+      "var_pct": 0.38
+    },
+    {
+      "line": "Software & Tools",
+      "kind": "cost",
+      "dept": "R&D",
+      "budget": 1046183.61,
+      "actual": 1055928.83,
+      "var": 9745.220000000088,
+      "var_pct": 0.93
+    },
+    {
+      "line": "Subscription Revenue",
+      "kind": "revenue",
+      "dept": "Revenue",
+      "budget": 25765188.2,
+      "actual": 25305124.38,
+      "var": -460063.8200000003,
+      "var_pct": -1.79
+    },
+    {
+      "line": "Support Labor",
+      "kind": "cost",
+      "dept": "COGS",
+      "budget": 2920595.89,
+      "actual": 2919220.85,
+      "var": -1375.0400000000373,
+      "var_pct": -0.05
+    }
+  ],
+  "decomp_sep2026": [
+    {
+      "line": "Support Labor",
+      "hc_budget": 43.2,
+      "hc_actual": 43.1,
+      "rate_b": 7875.19,
+      "rate_a": 7848.27,
+      "vol_var": -787.52,
+      "rate_var": -1160.54,
+      "var": -1948.06
+    },
+    {
+      "line": "Engineering Labor",
+      "hc_budget": 113.6,
+      "hc_actual": 112.0,
+      "rate_b": 8625.51,
+      "rate_a": 8626.21,
+      "vol_var": -13800.81,
+      "rate_var": 78.62,
+      "var": -13722.19
+    },
+    {
+      "line": "Sales & Marketing Labor",
+      "hc_budget": 78.3,
+      "hc_actual": 78.8,
+      "rate_b": 8982.19,
+      "rate_a": 8843.25,
+      "vol_var": 4491.1,
+      "rate_var": -10948.47,
+      "var": -6457.37
+    },
+    {
+      "line": "Customer Success Labor",
+      "hc_budget": 33.7,
+      "hc_actual": 32.9,
+      "rate_b": 7530.35,
+      "rate_a": 7555.16,
+      "vol_var": -6024.28,
+      "rate_var": 816.25,
+      "var": -5208.03
+    },
+    {
+      "line": "G&A Labor",
+      "hc_budget": 29.3,
+      "hc_actual": 29.4,
+      "rate_b": 9911.44,
+      "rate_a": 9828.22,
+      "vol_var": 991.14,
+      "rate_var": -2446.61,
+      "var": -1455.47
+    }
+  ],
+  "reforecast_q4_2026": {
+    "Cloud Hosting": {
+      "2026-10": 619584.92,
+      "2026-11": 633835.37,
+      "2026-12": 648413.58
+    },
+    "Customer Success Labor": {
+      "2026-10": 258251.73,
+      "2026-11": 261609.0,
+      "2026-12": 265009.92
+    },
+    "Engineering Labor": {
+      "2026-10": 935523.82,
+      "2026-11": 948621.16,
+      "2026-12": 961901.85
+    },
+    "Facilities & Other": {
+      "2026-10": 97690.88,
+      "2026-11": 98179.34,
+      "2026-12": 98670.24
+    },
+    "G&A Labor": {
+      "2026-10": 290719.32,
+      "2026-11": 293626.51,
+      "2026-12": 296562.78
+    },
+    "Legal & Professional": {
+      "2026-10": 58652.64,
+      "2026-11": 58887.26,
+      "2026-12": 59122.81
+    },
+    "Marketing Programs": {
+      "2026-10": 178168.39,
+      "2026-11": 179593.73,
+      "2026-12": 181030.49
+    },
+    "Sales & Marketing Labor": {
+      "2026-10": 706921.51,
+      "2026-11": 718232.26,
+      "2026-12": 729723.97
+    },
+    "Services Revenue": {
+      "2026-10": 229460.35,
+      "2026-11": 231754.95,
+      "2026-12": 234072.5
+    },
+    "Software & Tools": {
+      "2026-10": 124217.39,
+      "2026-11": 125707.99,
+      "2026-12": 127216.49
+    },
+    "Subscription Revenue": {
+      "2026-10": 3167249.01,
+      "2026-11": 3233761.24,
+      "2026-12": 3301670.22
+    },
+    "Support Labor": {
+      "2026-10": 342554.65,
+      "2026-11": 346665.31,
+      "2026-12": 350825.29
+    }
+  },
+  "anomaly_log": [
+    {
+      "month": "2025-05",
+      "line": "Marketing Programs",
+      "kind": "cost",
+      "tier": "Watch",
+      "budget": 152793.14,
+      "actual": 148045.91,
+      "var": -4747.2300000000105,
+      "var_pct": -3.11,
+      "fu": "F",
+      "is_planted": false
+    },
+    {
+      "month": "2025-05",
+      "line": "Software & Tools",
+      "kind": "cost",
+      "tier": "Watch",
+      "budget": 100691.61,
+      "actual": 96343.44,
+      "var": -4348.169999999998,
+      "var_pct": -4.32,
+      "fu": "F",
+      "is_planted": false
+    },
+    {
+      "month": "2025-06",
+      "line": "Facilities & Other",
+      "kind": "cost",
+      "tier": "Watch",
+      "budget": 90222.11,
+      "actual": 86347.45,
+      "var": -3874.6600000000035,
+      "var_pct": -4.29,
+      "fu": "F",
+      "is_planted": false
+    },
+    {
+      "month": "2025-06",
+      "line": "Marketing Programs",
+      "kind": "cost",
+      "tier": "Watch",
+      "budget": 154015.48,
+      "actual": 146277.67,
+      "var": -7737.809999999998,
+      "var_pct": -5.02,
+      "fu": "F",
+      "is_planted": false
+    },
+    {
+      "month": "2025-09",
+      "line": "Marketing Programs",
+      "kind": "cost",
+      "tier": "Alert",
+      "budget": 157741.5,
+      "actual": 212617.96,
+      "var": 54876.45999999999,
+      "var_pct": 34.79,
+      "fu": "U",
+      "is_planted": true
+    },
+    {
+      "month": "2025-10",
+      "line": "Marketing Programs",
+      "kind": "cost",
+      "tier": "Alert",
+      "budget": 159003.43,
+      "actual": 204319.82,
+      "var": 45316.390000000014,
+      "var_pct": 28.5,
+      "fu": "U",
+      "is_planted": true
+    },
+    {
+      "month": "2025-10",
+      "line": "Services Revenue",
+      "kind": "revenue",
+      "tier": "Watch",
+      "budget": 202331.78,
+      "actual": 215331.48,
+      "var": 12999.700000000012,
+      "var_pct": 6.42,
+      "fu": "F",
+      "is_planted": false
+    },
+    {
+      "month": "2026-01",
+      "line": "Subscription Revenue",
+      "kind": "revenue",
+      "tier": "Alert",
+      "budget": 2630648.16,
+      "actual": 2474768.64,
+      "var": -155879.52000000002,
+      "var_pct": -5.93,
+      "fu": "U",
+      "is_planted": true
+    },
+    {
+      "month": "2026-02",
+      "line": "Facilities & Other",
+      "kind": "cost",
+      "tier": "Watch",
+      "budget": 93894.79,
+      "actual": 97893.29,
+      "var": 3998.5,
+      "var_pct": 4.26,
+      "fu": "U",
+      "is_planted": false
+    },
+    {
+      "month": "2026-02",
+      "line": "Sales & Marketing Labor",
+      "kind": "cost",
+      "tier": "Watch",
+      "budget": 629344.1,
+      "actual": 656851.43,
+      "var": 27507.330000000075,
+      "var_pct": 4.37,
+      "fu": "U",
+      "is_planted": false
+    },
+    {
+      "month": "2026-02",
+      "line": "Software & Tools",
+      "kind": "cost",
+      "tier": "Watch",
+      "budget": 112103.17,
+      "actual": 116592.28,
+      "var": 4489.110000000001,
+      "var_pct": 4.0,
+      "fu": "U",
+      "is_planted": false
+    },
+    {
+      "month": "2026-03",
+      "line": "Cloud Hosting",
+      "kind": "cost",
+      "tier": "Alert",
+      "budget": 529321.58,
+      "actual": 710651.89,
+      "var": 181330.31000000006,
+      "var_pct": 34.26,
+      "fu": "U",
+      "is_planted": true
+    },
+    {
+      "month": "2026-03",
+      "line": "Subscription Revenue",
+      "kind": "revenue",
+      "tier": "Alert",
+      "budget": 2742295.5,
+      "actual": 2592219.28,
+      "var": -150076.2200000002,
+      "var_pct": -5.47,
+      "fu": "U",
+      "is_planted": true
+    },
+    {
+      "month": "2026-04",
+      "line": "Engineering Labor",
+      "kind": "cost",
+      "tier": "Alert",
+      "budget": 914056.9,
+      "actual": 793444.97,
+      "var": -120611.93000000005,
+      "var_pct": -13.2,
+      "fu": "F",
+      "is_planted": true
+    },
+    {
+      "month": "2026-04",
+      "line": "G&A Labor",
+      "kind": "cost",
+      "tier": "Watch",
+      "budget": 276310.61,
+      "actual": 267813.35,
+      "var": -8497.26000000001,
+      "var_pct": -3.08,
+      "fu": "F",
+      "is_planted": false
+    },
+    {
+      "month": "2026-05",
+      "line": "Engineering Labor",
+      "kind": "cost",
+      "tier": "Alert",
+      "budget": 926853.69,
+      "actual": 811004.63,
+      "var": -115849.05999999994,
+      "var_pct": -12.5,
+      "fu": "F",
+      "is_planted": true
+    },
+    {
+      "month": "2026-05",
+      "line": "Legal & Professional",
+      "kind": "cost",
+      "tier": "Alert",
+      "budget": 57561.64,
+      "actual": 223358.04,
+      "var": 165796.40000000002,
+      "var_pct": 288.03,
+      "fu": "U",
+      "is_planted": true
+    },
+    {
+      "month": "2026-05",
+      "line": "Sales & Marketing Labor",
+      "kind": "cost",
+      "tier": "Watch",
+      "budget": 660038.53,
+      "actual": 638930.04,
+      "var": -21108.48999999999,
+      "var_pct": -3.2,
+      "fu": "F",
+      "is_planted": false
+    },
+    {
+      "month": "2026-06",
+      "line": "Engineering Labor",
+      "kind": "cost",
+      "tier": "Alert",
+      "budget": 939829.65,
+      "actual": 843167.99,
+      "var": -96661.66000000003,
+      "var_pct": -10.29,
+      "fu": "F",
+      "is_planted": true
+    },
+    {
+      "month": "2026-08",
+      "line": "G&A Labor",
+      "kind": "cost",
+      "tier": "Watch",
+      "budget": 287529.93,
+      "actual": 309279.33,
+      "var": 21749.400000000023,
+      "var_pct": 7.56,
+      "fu": "U",
+      "is_planted": true
+    }
+  ]
+}
