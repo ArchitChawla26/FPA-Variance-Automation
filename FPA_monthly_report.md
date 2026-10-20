@@ -1,6 +1,6 @@
 # FP&A Monthly Report — September 2026 Close
 
-**By Archit Chawla — October 2026**
+**By Archit Chawla**
 
 *Modeled B2B SaaS company · Actuals through September 2026 · Budget: FY2025–FY2026 plan*
 
