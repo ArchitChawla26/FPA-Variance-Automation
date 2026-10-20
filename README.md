@@ -1,6 +1,6 @@
 # FP&A Variance Automation with Anomaly Detection
 
-**By Archit Chawla — October 2026**
+**By Archit Chawla**
 
 A working FP&A close process, built end to end: a Python variance engine that reviews every budget line every month, flags what matters, decomposes the drivers, and re-forecasts the year — feeding an Excel variance pack and a written monthly report.
 
