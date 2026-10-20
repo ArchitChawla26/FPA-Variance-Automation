@@ -2,7 +2,7 @@
 
 ## Entry (Projects section)
 
-FP&A Variance Automation with Anomaly Detection | Oct 2026
+FP&A Variance Automation with Anomaly Detection
 Code: github.com/ArchitChawla26/FPA-Variance-Automation
 
 - Built to demonstrate an FP&A close process end to end: a Python variance engine reviewing budget vs. actuals across 12 P&L lines and 21 months for a modeled B2B SaaS company, with favorable/unfavorable sign logic, labor rate-vs-volume driver decomposition, and a rolling reforecast
