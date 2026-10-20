@@ -1,0 +1,121 @@
+month,line,hc_budget,hc_actual
+2025-01,Support Labor,34.0,35.0
+2025-02,Support Labor,34.4,33.8
+2025-03,Support Labor,34.8,34.7
+2025-04,Support Labor,35.2,35.7
+2025-05,Support Labor,35.7,35.9
+2025-06,Support Labor,36.1,35.9
+2025-07,Support Labor,36.5,36.4
+2025-08,Support Labor,37.0,36.1
+2025-09,Support Labor,37.4,37.3
+2025-10,Support Labor,37.9,37.7
+2025-11,Support Labor,38.3,38.4
+2025-12,Support Labor,38.8,38.4
+2026-01,Support Labor,39.2,39.5
+2026-02,Support Labor,39.7,40.3
+2026-03,Support Labor,40.2,40.3
+2026-04,Support Labor,40.7,40.9
+2026-05,Support Labor,41.1,41.2
+2026-06,Support Labor,41.6,41.6
+2026-07,Support Labor,42.1,41.7
+2026-08,Support Labor,42.6,42.8
+2026-09,Support Labor,43.2,43.1
+2026-10,Support Labor,43.7,
+2026-11,Support Labor,44.2,
+2026-12,Support Labor,44.7,
+2025-01,Engineering Labor,86.0,87.3
+2025-02,Engineering Labor,87.2,88.1
+2025-03,Engineering Labor,88.4,88.7
+2025-04,Engineering Labor,89.7,89.2
+2025-05,Engineering Labor,90.9,90.3
+2025-06,Engineering Labor,92.2,92.9
+2025-07,Engineering Labor,93.5,93.6
+2025-08,Engineering Labor,94.8,95.1
+2025-09,Engineering Labor,96.1,95.1
+2025-10,Engineering Labor,97.5,98.0
+2025-11,Engineering Labor,98.8,99.1
+2025-12,Engineering Labor,100.2,99.5
+2026-01,Engineering Labor,101.6,101.3
+2026-02,Engineering Labor,103.0,103.2
+2026-03,Engineering Labor,104.5,104.5
+2026-04,Engineering Labor,105.9,95.3
+2026-05,Engineering Labor,107.4,96.7
+2026-06,Engineering Labor,108.9,98.0
+2026-07,Engineering Labor,110.5,110.5
+2026-08,Engineering Labor,112.0,112.9
+2026-09,Engineering Labor,113.6,112.0
+2026-10,Engineering Labor,115.2,
+2026-11,Engineering Labor,116.8,
+2026-12,Engineering Labor,118.4,
+2025-01,Sales & Marketing Labor,57.0,56.9
+2025-02,Sales & Marketing Labor,57.9,58.0
+2025-03,Sales & Marketing Labor,58.8,59.0
+2025-04,Sales & Marketing Labor,59.8,59.6
+2025-05,Sales & Marketing Labor,60.7,59.7
+2025-06,Sales & Marketing Labor,61.7,61.9
+2025-07,Sales & Marketing Labor,62.7,63.7
+2025-08,Sales & Marketing Labor,63.7,62.8
+2025-09,Sales & Marketing Labor,64.7,65.2
+2025-10,Sales & Marketing Labor,65.8,65.6
+2025-11,Sales & Marketing Labor,66.8,66.8
+2025-12,Sales & Marketing Labor,67.9,67.2
+2026-01,Sales & Marketing Labor,69.0,68.8
+2026-02,Sales & Marketing Labor,70.1,70.8
+2026-03,Sales & Marketing Labor,71.2,71.5
+2026-04,Sales & Marketing Labor,72.3,73.4
+2026-05,Sales & Marketing Labor,73.5,74.2
+2026-06,Sales & Marketing Labor,74.7,74.9
+2026-07,Sales & Marketing Labor,75.9,76.9
+2026-08,Sales & Marketing Labor,77.1,77.3
+2026-09,Sales & Marketing Labor,78.3,78.8
+2026-10,Sales & Marketing Labor,79.6,
+2026-11,Sales & Marketing Labor,80.8,
+2026-12,Sales & Marketing Labor,82.1,
+2025-01,Customer Success Labor,26.0,25.8
+2025-02,Customer Success Labor,26.3,26.4
+2025-03,Customer Success Labor,26.7,26.3
+2025-04,Customer Success Labor,27.0,27.6
+2025-05,Customer Success Labor,27.4,26.7
+2025-06,Customer Success Labor,27.7,28.2
+2025-07,Customer Success Labor,28.1,28.0
+2025-08,Customer Success Labor,28.5,29.2
+2025-09,Customer Success Labor,28.8,29.3
+2025-10,Customer Success Labor,29.2,30.3
+2025-11,Customer Success Labor,29.6,30.0
+2025-12,Customer Success Labor,30.0,29.0
+2026-01,Customer Success Labor,30.4,30.3
+2026-02,Customer Success Labor,30.8,30.1
+2026-03,Customer Success Labor,31.2,30.8
+2026-04,Customer Success Labor,31.6,32.5
+2026-05,Customer Success Labor,32.0,32.4
+2026-06,Customer Success Labor,32.4,32.0
+2026-07,Customer Success Labor,32.8,32.2
+2026-08,Customer Success Labor,33.2,33.3
+2026-09,Customer Success Labor,33.7,32.9
+2026-10,Customer Success Labor,34.1,
+2026-11,Customer Success Labor,34.5,
+2026-12,Customer Success Labor,35.0,
+2025-01,G&A Labor,24.0,23.6
+2025-02,G&A Labor,24.2,24.4
+2025-03,G&A Labor,24.5,25.2
+2025-04,G&A Labor,24.7,25.1
+2025-05,G&A Labor,25.0,23.6
+2025-06,G&A Labor,25.2,25.4
+2025-07,G&A Labor,25.5,25.5
+2025-08,G&A Labor,25.7,26.0
+2025-09,G&A Labor,26.0,27.0
+2025-10,G&A Labor,26.2,25.0
+2025-11,G&A Labor,26.5,26.2
+2025-12,G&A Labor,26.8,27.1
+2026-01,G&A Labor,27.0,26.1
+2026-02,G&A Labor,27.3,28.2
+2026-03,G&A Labor,27.6,27.8
+2026-04,G&A Labor,27.9,28.4
+2026-05,G&A Labor,28.1,27.8
+2026-06,G&A Labor,28.4,28.9
+2026-07,G&A Labor,28.7,29.3
+2026-08,G&A Labor,29.0,29.1
+2026-09,G&A Labor,29.3,29.4
+2026-10,G&A Labor,29.6,
+2026-11,G&A Labor,29.9,
+2026-12,G&A Labor,30.2,
